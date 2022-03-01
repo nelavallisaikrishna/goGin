@@ -1,0 +1,5 @@
+{
+
+   "port": "8889",
+   "db": "mongodb+srv://nelavallisaikrishna:DJojal75sX5olV5l@test.wbx3e.mongodb.net/oms?retryWrites=true&w=majority"
+}
